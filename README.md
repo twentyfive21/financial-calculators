@@ -1,8 +1,5 @@
 # Financial Calculators
-## This repository contains Java implementations of three financial calculators: Mortgage Calculator, Present Value Calculator, and Future Value Calculator.
 
-## Homescreen with folder structure : 
-# Java Financial Calculators
 ### This repository contains implementations of three financial calculators: 
 - Mortgage Calculator
 - Present Value Calculator
@@ -11,7 +8,7 @@
 # Homescreen with folder structure : 
 ### This is the main folder structure for this project using the maven folder structure. 
 ![homescreen](https://github.com/twentyfive21/financial-calculators/assets/107441301/6e169ca6-ef95-42c6-b413-d0491c025ec3)
-## Interesting piece of code : 
+
 ---
 # Interesting piece of code : 
 - User-Friendly: It provides a user-friendly interface by allowing users to select options using letters (a, b, c).
@@ -21,8 +18,6 @@
 
 ### Overall, this code demonstrates good practices in user interaction, input validation, error handling, and code readability.
 ![interesting](https://github.com/twentyfive21/financial-calculators/assets/107441301/b8eaf389-e3e5-4291-b250-1028f246c7a4)
-## Mortage Calculator input/outputs & error handling: 
-![mortgage-input-output](https://github.com/twentyfive21/financial-calculators/assets/107441301/624ad01d-5997-4a81-a67d-677feaef069f)
 
 ---
 
@@ -31,7 +26,6 @@
 ![mortgage input](https://github.com/twentyfive21/financial-calculators/assets/107441301/644c7959-e101-4221-90ef-9ef9fcd0c834)
 ## Error handling :
 ![mortage-error-handling](https://github.com/twentyfive21/financial-calculators/assets/107441301/b3bc2314-e3bb-43b4-9951-88f7133dbe95)
-## Future value calculator input/outputs & error handling: 
 
 ---
 # Future value calculator 
@@ -39,7 +33,6 @@
 ![future-input-output](https://github.com/twentyfive21/financial-calculators/assets/107441301/5efb1321-972d-4712-9ffe-319f1536d8b9)
 ## Error handling :
 ![future-error-handling](https://github.com/twentyfive21/financial-calculators/assets/107441301/385307b8-dea5-4da3-82a5-afa994ff2b2e)
-## Present value calculator input/outputs & error handling: 
 
 ---
 # Present value calculator 
