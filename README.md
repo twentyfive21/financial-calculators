@@ -43,6 +43,6 @@
 
 ## Error handling :
 ![present-error](https://github.com/twentyfive21/financial-calculators/assets/107441301/807415c0-e366-4cb0-8741-c33c60c5ccac)
-andling :
+
 
 
