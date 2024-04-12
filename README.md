@@ -23,20 +23,26 @@
 
 # Mortage Calculator
 ## Input/outputs : 
-![mortgage input](https://github.com/twentyfive21/financial-calculators/assets/107441301/644c7959-e101-4221-90ef-9ef9fcd0c834)
+![m-input](https://github.com/twentyfive21/financial-calculators/assets/107441301/e6bc79dd-8087-447f-b944-73fab3434f44)
 ## Error handling :
-![mortage-error-handling](https://github.com/twentyfive21/financial-calculators/assets/107441301/b3bc2314-e3bb-43b4-9951-88f7133dbe95)
+![m-error](https://github.com/twentyfive21/financial-calculators/assets/107441301/457a2e6f-e854-44ec-aa28-dea0cf52a69d)
 
 ---
 # Future value calculator 
 ## Input/outputs : 
-![future-input-output](https://github.com/twentyfive21/financial-calculators/assets/107441301/5efb1321-972d-4712-9ffe-319f1536d8b9)
+![future-input](https://github.com/twentyfive21/financial-calculators/assets/107441301/c031ff96-de8c-4f79-8580-1407518660ac)
 ## Error handling :
-![future-error-handling](https://github.com/twentyfive21/financial-calculators/assets/107441301/385307b8-dea5-4da3-82a5-afa994ff2b2e)
+![future-error](https://github.com/twentyfive21/financial-calculators/assets/107441301/f00d7cfb-0c26-42c5-a1d7-816ae3bd1ba0)
+
 
 ---
 # Present value calculator 
 ## Input/outputs : 
-![present-input-output](https://github.com/twentyfive21/financial-calculators/assets/107441301/dac4d62c-81db-4505-bcf7-da52545761c5)
+![present-input](https://github.com/twentyfive21/financial-calculators/assets/107441301/8236801c-31dc-4a97-9045-5fb22c67c5c8)
+
+
 ## Error handling :
-![present-error-handling](https://github.com/twentyfive21/financial-calculators/assets/107441301/5cdadb86-423c-43f0-9062-74fb74984811)
+![present-error](https://github.com/twentyfive21/financial-calculators/assets/107441301/807415c0-e366-4cb0-8741-c33c60c5ccac)
+andling :
+
+
